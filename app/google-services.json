@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "754665599022",
+    "firebase_url": "https://torrespracticalexam.firebaseio.com",
+    "project_id": "torrespracticalexam",
+    "storage_bucket": "torrespracticalexam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754665599022:android:1e589be51a97b37d",
+        "android_client_info": {
+          "package_name": "com.torresrafael.exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754665599022-57034q43ss4m2ha68k8qbacdhnpod235.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.torresrafael.exam",
+            "certificate_hash": "69aef7a97d896bbe8cc7bf6ae57b157c747b7984"
+          }
+        },
+        {
+          "client_id": "754665599022-ifc6qrnkkhtnop5p5li0loc32cp5rnr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBzfWuawiRIojo67m79XpolwbAS1fFHfI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754665599022-ifc6qrnkkhtnop5p5li0loc32cp5rnr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
